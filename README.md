@@ -5,6 +5,7 @@
   - [Requirements](#requirements)
   - [Instructions](#instructions)
   - [Changelog](#changelog)
+      - [Version 5.0](#version-50)
       - [Version 4.0](#version-40)
       - [Version 3.0](#version-30)
       - [Version 2.1](#version-21)
@@ -36,6 +37,11 @@ __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 7. Download **_GPS Locker_** app on Google Play Store and open the app and wait for the first time fix/lock. *This is necessary and essential because the app will recognize some GPS satellites signals for the very first time.*
 
 ## Changelog
+
+#### Version 5.0
+- Use gps.conf from Xiaomi 14 Ultra (HyperOS 1.0.8.0.UNACNXM)
+- Update README.md
+- Add [release package](https://github.com/skyrocketingHong/OptmizedGPSConf/releases/latest/download/OptmizedGPSConf.zip)
 
 #### Version 4.0
 - Use gps.conf of MIUI 13
